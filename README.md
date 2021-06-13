@@ -4,7 +4,7 @@ for algorithm assignment #5 with machine learning
 20170807 박민기
 
 ------------------
-Three Models for Analyze
+Three Models for Analyzing
 ------------------
 * Each model has 3,5, and 7 layers respectively
 ![model](https://user-images.githubusercontent.com/33649883/121807134-de7b2700-cc8d-11eb-9721-11e212e2a719.PNG)
@@ -44,7 +44,7 @@ MODEL 2 : 5 Number of Layers
 * model description
 
 ![model2_1](https://user-images.githubusercontent.com/33649883/121807429-16cf3500-cc8f-11eb-8529-a9be0a687f1f.PNG)
-![model2_2](https://user-images.githubusercontent.com/33649883/121807446-23ec2400-cc8f-11eb-934b-9017c5072aa9.PNG)
+![model2_2](https://user-images.githubusercontent.com/33649883/121807747-69f5b780-cc90-11eb-870f-4a73da283045.PNG)
 
 * model training
 
